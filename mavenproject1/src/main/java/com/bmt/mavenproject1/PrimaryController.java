@@ -10,7 +10,7 @@ public class PrimaryController {
         App.setRoot("secondary");
     }
     public void test(){
-        int a = 10;
-        int b = 12;
+        int a = 1;
+        int b = 2;
     }
 }
